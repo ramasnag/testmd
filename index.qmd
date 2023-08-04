@@ -1,0 +1,95 @@
+---
+title: "ES104M_IITTP"
+---
+
+![](https://www.iittp.ac.in/images/demo/iit/Other/logoupdated.png){width="30%"}
+
+#  ES104M   - Introduction to programming
+
+Welcome to the *__Introduction to Programming__* course! If you've ever been intrigued by the digital world, curious about the magic behind software, or eager to solve problems through code, then this course is the perfect starting point for your journey into the fascinating realm of programming.    
+
+![Programming is fun](https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png "Programming is fun!")
+
+## Course Description
+
+Throughout the course, you will be introduced to fundamental programming concepts and techniques using *C language*. From the basics of variables, data types, and control structures, to more advanced topics like functions and algorithms – you will gain a solid understanding of the building blocks of programming.
+
+## Course Objectives
+
+By the end of this course, you will be able to:
+
+* Write simple programs in a **c** or **c++** programming language .
+* Understand the basic concepts of programming, such as variables, data types, control flow, and functions.
+* Apply programming concepts to solve problems.
+* Developing problem solving skills.
+
+|Introduction to Programming||
+|------|------|
+|Course number|ES104M|
+|Structure of credits | 2-0-3-4 |
+|Offered to | UG |
+|To be offered by | Department of Computer Science and Engineering|
+|To take effect from | Aug 2023|
+|Prerequisite | Nil|
+
+## Syllabus
+
+Here is an overview of the course syllabus:
+
+1. Week 1: Introduction to the Course
+   - Topic 1
+   - Topic 2
+   - ...
+
+2. Week 2: [Week 2 topics]
+   - ...
+
+3. Week 3: [Week 3 topics]
+   - ...
+
+...
+
+## Resources
+
+We've compiled a list of resources to help you succeed in this course:
+
+- [Textbook Name](link-to-textbook)
+- [Online Resource 1](link-to-resource1)
+- [Online Resource 2](link-to-resource2)
+- ...
+
+## Assignments
+
+Throughout the course, you'll have assignments to complete. These assignments are essential for your learning and will contribute to your final grade.
+
+- [Assignment 1](link-to-assignment1)
+- [Assignment 2](link-to-assignment2)
+- ...
+
+## Grading
+
+The grading breakdown for this course is as follows:
+
+- Test 1: 20%
+- Test 2: 20%
+- Assignment - 20%
+- Final Exam: 40%
+
+## Contact
+
+If you have any questions or concerns regarding the course, feel free to contact the instructor:
+
+- Instructor: [Dr Raghavendra K](mailto:raghavendra@iittp.ac.in)
+- Head TA: [Nagarajan R](mailto:nagarajan@iittp.ac.in)
+- Monday Batch TAs: [Tharakeswara Raji](mailto:cs19d503@iittp.ac.in)
+- Wednesday Batch TAs: [Aditi Palit](mailto:cs21d001@iittp.ac.in)
+- Thursday Batch TAs: [Sumukha Bharadwaj](mailto:cs21d003@iittp.ac.in)
+- Friday Batch TAs: [Suja J](mailto:sujavalan@iittp.ac.in)
+- Office Hours: [Office Hours Schedule](link-to-office-hours)
+
+We hope you have a great learning experience in this course!
+
+To learn more visit Institute course websites  <https://www.iittp.ac.in/academics/syllabus>
+
+
+
