@@ -10,6 +10,19 @@ Welcome to the *__Introduction to Programming__* course! If you've ever been int
 
 ![Programming is fun](https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png "Programming is fun!")
 
+
+## Google Classroom Details
+The entire batch of 240 students is divided into 4 batches and join the respective Google classroom     
+[CS Batch](https://classroom.google.com)     
+[ME Batch](https://classroom.google.com)     
+[EE Batch](https://classroom.google.com)     
+[CH/CE Batch](https://classroom.google.com)     
+We will be posting the lab exercises, assignments, quizzes in Google classroom, students have to submit their works in classroom for grading and evaluation.
+
+## Piazza Details
+All the students are encouraged to join the Introduction to Programming course in piazza for participating in any forum discussions    
+[Piazza Link](https://piazza.com)
+
 ## Course Description
 
 Throughout the course, you will be introduced to fundamental programming concepts and techniques using *C language*. From the basics of variables, data types, and control structures, to more advanced topics like functions and algorithms – you will gain a solid understanding of the building blocks of programming.
