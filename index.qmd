@@ -70,10 +70,13 @@ Throughout the course, you'll have assignments to complete. These assignments ar
 
 The grading breakdown for this course is as follows:
 
-- Test 1: 20%
-- Test 2: 20%
-- Assignment - 20%
-- Final Exam: 40%
+- Test 1: 10%
+- Test 2: 10%
+- Assignment - 10%
+- Final Theory Exam - 25%
+- Continuous Labs - 25%
+- Quizzes - 10%
+- Lab Exam - 10%
 
 ## Contact
 
