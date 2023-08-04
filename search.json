@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html#course-description",
     "href": "index.html#course-description",
     "title": "ES104M_IITTP",
@@ -47,12 +54,5 @@
     "title": "ES104M_IITTP",
     "section": "Contact",
     "text": "Contact\nIf you have any questions or concerns regarding the course, feel free to contact the instructor:\n\nInstructor: Dr Raghavendra K\nHead TA: Nagarajan R\nMonday Batch TAs: Tharakeswara Raji\nWednesday Batch TAs: Aditi Palit\nThursday Batch TAs: Sumukha Bharadwaj\nFriday Batch TAs: Suja J\nOffice Hours: Office Hours Schedule\n\nWe hope you have a great learning experience in this course!\nTo learn more visit Institute course websites https://www.iittp.ac.in/academics/syllabus"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]

@@ -1,1 +1,1 @@
-Sitemap: https://ramasnag.github.io/testmd/sitemap.xml
+Sitemap: https://github.com/ramasnag/testmd/sitemap.xml
