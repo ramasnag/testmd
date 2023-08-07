@@ -1,0 +1,30 @@
+---
+title: "TA Details"
+---
+
+There will be 4 Group of TAs for every Lab batch and 15 students will be assgined to each team   
+The schedule of TAs for differnet Lab batches is as follows:
+
+## Monday Batch [ 3 PM - 6 PM ]
+1. Chiranjeevi + Kuwar Raghvendra Singh
+2. Nithish Yadav + Ajinkya
+3. Nikhitha + GopiKrishna
+4. Tharakeswara Raju
+
+## Wednesday Batch [ 9 AM - 12 PM ]
+1. Deepak Yadav + Hariom Meena
+2. Anup Nair + Kuwar Raghvendra Singh
+3. Nikhitha + GopiKrishna
+4. Aditi Palit
+
+## Thursday Batch [ 3 PM - 6 PM ]
+1. Chiranjeevi + Ajinkya
+2. Deepak Yadav + Hariom Meena
+3. Anup Nair + Nithish Yadav
+4. Sumukha Bharadwaj
+
+## Friday Batch [ 9 AM - 12 PM ]
+1. Tharakeswara Raju
+2. Sumukha Bharadwaj
+3. Aditi Palit
+4. Suja
