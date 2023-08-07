@@ -4,11 +4,13 @@ project:
 website:
   title: "ES104M"
   navbar:
-    left:
+    right:
+        
       - href: index.qmd
         text: Home
+        icon: fa-home
       - labs.qmd
-      - about.qmd
+      - TAs.qmd
       
 
 format:

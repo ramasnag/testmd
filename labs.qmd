@@ -3,3 +3,11 @@ title: "Labs"
 ---
 
 The regular Lab exercise questions will be posted here
+
+
+|Week|Date|Topic|
+|----|----|----|
+|1|14-18 Aug|Introduction|
+|2|21-25 Aug|Basic Linux Commands|
+|3|28-1 Sep|I/O Operations|
+
