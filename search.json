@@ -1,79 +1,79 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ES104M - Introduction to Programming",
     "section": "",
-    "text": "About this site"
+    "text": "Welcome to the Introduction to Programming Course. We will be learning C Programming in Linux through this ES104M course."
+  },
+  {
+    "objectID": "index.html#google-classroom-details",
+    "href": "index.html#google-classroom-details",
+    "title": "ES104M - Introduction to Programming",
+    "section": "Google Classroom Details",
+    "text": "Google Classroom Details\nThe entire batch of 240 students is divided into 4 batches based on your core branch. Please join the respective Google classroom from the below links\n\nCS Batch\n\nME Batch\n\nEE Batch\n\nCH/CE Batch\n\nWe will be posting the lab exercises, assignments, quizzes in Google classroom, students have to submit their works in classroom for grading and evaluation."
+  },
+  {
+    "objectID": "index.html#piazza-details",
+    "href": "index.html#piazza-details",
+    "title": "ES104M - Introduction to Programming",
+    "section": "Piazza Details",
+    "text": "Piazza Details\nAll the students are encouraged to join the Introduction to Programming course in piazza for participating in forum discussions\nPiazza Link"
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "ES104M - Introduction to Programming",
+    "section": "Grading",
+    "text": "Grading\nThis course has both Theory and Lab components and the grading proforma for this course is as follows:\n\n\n\nWeightage Distribution\n\n\n\n\n\nTest - 1\n10%\n\n\nTest - 2\n10%\n\n\nAssignments\n10%\n\n\nFinal Theory Exam\n25%\n\n\nWeekly Labs\n25%\n\n\nQuizzes\n10%\n\n\nFinal Lab Exam\n10%\n\n\n\nThe weightage will be formally confirmed after CCM-1"
+  },
+  {
+    "objectID": "index.html#the-teacher-and-tas-team",
+    "href": "index.html#the-teacher-and-tas-team",
+    "title": "ES104M - Introduction to Programming",
+    "section": "The Teacher and TAs Team",
+    "text": "The Teacher and TAs Team\nCourse Instructor:\nDr Raghavendra K - Please Click Here to to know more about the faculty\nHead TAs:\n\nNagarajan R\nSuja J\n\nPhD TAs:\n\nAditi Palit\nSumukha Bharadwaj\nTharakeswara Raju\n\nPG TAs:\n\nAjinkya Sawarkar\nAnuroop U Nair\nChiranjeevi B S\nDeepak Yadav\nHariom Meena\nJonnalagadda Gopi Krishna\nKuwar Raghvendra Singh\nNitesh Yadav\nVaddempudi Nikhitha\n\nOffice Hours:\n\nOffice Hours Schedule\n\nPS: If you have any queries, please post it in Piazza rather than emailing us directly for immediate resolution.\nWe hope you have a great learning experience in this course!"
   },
   {
     "objectID": "labs.html",
     "href": "labs.html",
     "title": "Labs",
     "section": "",
-    "text": "The regular Lab exercise questions will be posted here"
+    "text": "The regular Lab exercise questions will be posted here\n\n\n\nWeek\nDate\nTopic\n\n\n\n\n1\n14-18 Aug\nIntroduction\n\n\n2\n21-25 Aug\nBasic Linux Commands\n\n\n3\n28-1 Sep\nI/O Operations"
   },
   {
-    "objectID": "index.html#google-classroom-details",
-    "href": "index.html#google-classroom-details",
-    "title": "ES104M_IITTP",
-    "section": "Google Classroom Details",
-    "text": "Google Classroom Details\nThe entire batch of 240 students is divided into 4 batches and join the respective Google classroom\nCS Batch\nME Batch\nEE Batch\nCH/CE Batch\nWe will be posting the lab exercises, assignments, quizzes in Google classroom, students have to submit their works in classroom for grading and evaluation."
+    "objectID": "TAs.html",
+    "href": "TAs.html",
+    "title": "TA Details",
+    "section": "",
+    "text": "There will be 4 Group of TAs for every Lab batch and 15 students will be assgined to each team\nThe schedule of TAs for differnet Lab batches is as follows:"
   },
   {
-    "objectID": "index.html#piazza-details",
-    "href": "index.html#piazza-details",
-    "title": "ES104M_IITTP",
-    "section": "Piazza Details",
-    "text": "Piazza Details\nAll the students are encouraged to join the Introduction to Programming course in piazza for participating in any forum discussions\nPiazza Link"
+    "objectID": "TAs.html#monday-batch-3-pm---6-pm",
+    "href": "TAs.html#monday-batch-3-pm---6-pm",
+    "title": "TA Details",
+    "section": "Monday Batch [ 3 PM - 6 PM ]",
+    "text": "Monday Batch [ 3 PM - 6 PM ]\n\nChiranjeevi + Kuwar Raghvendra Singh\nNithish Yadav + Ajinkya\nNikhitha + GopiKrishna\nTharakeswara Raju"
   },
   {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "ES104M_IITTP",
-    "section": "Course Description",
-    "text": "Course Description\nThroughout the course, you will be introduced to fundamental programming concepts and techniques using C language. From the basics of variables, data types, and control structures, to more advanced topics like functions and algorithms – you will gain a solid understanding of the building blocks of programming."
+    "objectID": "TAs.html#wednesday-batch-9-am---12-pm",
+    "href": "TAs.html#wednesday-batch-9-am---12-pm",
+    "title": "TA Details",
+    "section": "Wednesday Batch [ 9 AM - 12 PM ]",
+    "text": "Wednesday Batch [ 9 AM - 12 PM ]\n\nDeepak Yadav + Hariom Meena\nAnup Nair + Kuwar Raghvendra Singh\nNikhitha + GopiKrishna\nAditi Palit"
   },
   {
-    "objectID": "index.html#course-objectives",
-    "href": "index.html#course-objectives",
-    "title": "ES104M_IITTP",
-    "section": "Course Objectives",
-    "text": "Course Objectives\nBy the end of this course, you will be able to:\n\nWrite simple programs in a c or c++ programming language .\nUnderstand the basic concepts of programming, such as variables, data types, control flow, and functions.\nApply programming concepts to solve problems.\nDeveloping problem solving skills.\n\n\n\n\nIntroduction to Programming\n\n\n\n\n\nCourse number\nES104M\n\n\nStructure of credits\n2-0-3-4\n\n\nOffered to\nUG\n\n\nTo be offered by\nDepartment of Computer Science and Engineering\n\n\nTo take effect from\nAug 2023\n\n\nPrerequisite\nNil"
+    "objectID": "TAs.html#thursday-batch-3-pm---6-pm",
+    "href": "TAs.html#thursday-batch-3-pm---6-pm",
+    "title": "TA Details",
+    "section": "Thursday Batch [ 3 PM - 6 PM ]",
+    "text": "Thursday Batch [ 3 PM - 6 PM ]\n\nChiranjeevi + Ajinkya\nDeepak Yadav + Hariom Meena\nAnup Nair + Nithish Yadav\nSumukha Bharadwaj"
   },
   {
-    "objectID": "index.html#syllabus",
-    "href": "index.html#syllabus",
-    "title": "ES104M_IITTP",
-    "section": "Syllabus",
-    "text": "Syllabus\nHere is an overview of the course syllabus:\n\nWeek 1: Introduction to the Course\n\nTopic 1\nTopic 2\n…\n\nWeek 2: [Week 2 topics]\n\n…\n\nWeek 3: [Week 3 topics]\n\n…\n\n\n…"
-  },
-  {
-    "objectID": "index.html#resources",
-    "href": "index.html#resources",
-    "title": "ES104M_IITTP",
-    "section": "Resources",
-    "text": "Resources\nWe’ve compiled a list of resources to help you succeed in this course:\n\nTextbook Name\nOnline Resource 1\nOnline Resource 2\n…"
-  },
-  {
-    "objectID": "index.html#assignments",
-    "href": "index.html#assignments",
-    "title": "ES104M_IITTP",
-    "section": "Assignments",
-    "text": "Assignments\nThroughout the course, you’ll have assignments to complete. These assignments are essential for your learning and will contribute to your final grade.\n\nAssignment 1\nAssignment 2\n…"
-  },
-  {
-    "objectID": "index.html#grading",
-    "href": "index.html#grading",
-    "title": "ES104M_IITTP",
-    "section": "Grading",
-    "text": "Grading\nThe grading breakdown for this course is as follows:\n\nTest 1: 10%\nTest 2: 10%\nAssignment - 10%\nFinal Theory Exam - 25%\nContinuous Labs - 25%\nQuizzes - 10%\nLab Exam - 10%"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "ES104M_IITTP",
-    "section": "Contact",
-    "text": "Contact\nIf you have any questions or concerns regarding the course, feel free to contact the instructor:\n\nInstructor: Dr Raghavendra K\nHead TA: Nagarajan R\nMonday Batch TAs: Tharakeswara Raji\nWednesday Batch TAs: Aditi Palit\nThursday Batch TAs: Sumukha Bharadwaj\nFriday Batch TAs: Suja J\nOffice Hours: Office Hours Schedule\n\nWe hope you have a great learning experience in this course!\nTo learn more visit Institute course websites https://www.iittp.ac.in/academics/syllabus"
+    "objectID": "TAs.html#friday-batch-9-am---12-pm",
+    "href": "TAs.html#friday-batch-9-am---12-pm",
+    "title": "TA Details",
+    "section": "Friday Batch [ 9 AM - 12 PM ]",
+    "text": "Friday Batch [ 9 AM - 12 PM ]\n\nTharakeswara Raju\nSumukha Bharadwaj\nAditi Palit\nSuja"
   }
 ]
