@@ -65,6 +65,10 @@ __PG TAs:__
 - [Nitesh Yadav](cs23m110@iittp.ac.in)
 - [Vaddempudi Nikhitha](cs23m117@iittp.ac.in)
 
+__UG TAs:__
+
+ - TBA
+ 
 __Office Hours:__
 
 -  [Office Hours Schedule](link-to-office-hours)
